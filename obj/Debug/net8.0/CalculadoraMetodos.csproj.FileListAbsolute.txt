@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\bin\Debug\net8.0\CalculadoraMetodos.exe
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\bin\Debug\net8.0\CalculadoraMetodos.deps.json
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\bin\Debug\net8.0\CalculadoraMetodos.runtimeconfig.json
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\bin\Debug\net8.0\CalculadoraMetodos.dll
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\bin\Debug\net8.0\CalculadoraMetodos.pdb
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\obj\Debug\net8.0\CalculadoraMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\obj\Debug\net8.0\CalculadoraMetodos.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\obj\Debug\net8.0\CalculadoraMetodos.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\obj\Debug\net8.0\CalculadoraMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\obj\Debug\net8.0\CalculadoraMetodos.sourcelink.json
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\obj\Debug\net8.0\CalculadoraMetodos.dll
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\obj\Debug\net8.0\refint\CalculadoraMetodos.dll
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\obj\Debug\net8.0\CalculadoraMetodos.pdb
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\obj\Debug\net8.0\CalculadoraMetodos.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Iury\CalculadoraMetodos\obj\Debug\net8.0\ref\CalculadoraMetodos.dll
